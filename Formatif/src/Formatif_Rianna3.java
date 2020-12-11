@@ -10,9 +10,7 @@ public class Formatif_Rianna3
 
 	/*
 	 * Écrire une méthode qui reçoit en paramètre un tableau d’entiers et qui
-	 * retourne le même tableau amputé du plus grand nombre de cet élément. Utiliser
-	 * la méthode plusGrandIndex de la classe MethodesTableaux pour trouver l’index
-	 * du nombre le plus grand dans un tableau d’entiers. Afficher le tableau ainsi
+	 * retourne le même tableau amputé du plus grand nombre de cet élément. Afficher le tableau ainsi
 	 * modifié.
 	 */
 		
